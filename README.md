@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @awaBK2333
-- 👀 I’m interested in Java and Android developments(and Scratch?)
-- 🌱 I’m currently learning Android
+- 🐱 Interested in Scratch, HarmonyOS, Java and Python development...
+- 🌈 Has a Minecraft Server (1.20.4)
+- 🌱 Currently learning Java
 - 🍻 ฅ^•ﻌ•^ฅ
 
 <!---
